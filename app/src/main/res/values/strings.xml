@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavegationBar</string>
+    <string name="title_activity_HomeFragment">FragmentoHome</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notification">Notifications</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btnProfile">Ir a notificaciones</string>
+</resources>
