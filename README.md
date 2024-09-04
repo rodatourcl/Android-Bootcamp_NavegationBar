@@ -3,7 +3,7 @@ Basic application that displays in an initial fragment a navigation bar with thr
 Developed in Android Studio.  
 Programming language: Java.  
 Screens:  
-![Home Option](/home.png)
+![Home Option](home.PNG)
 
 
 
